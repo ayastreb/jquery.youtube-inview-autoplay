@@ -35,3 +35,5 @@ First, you need to load YouTube API. Then you need to apply plugin to all video 
   }
 </script>
 ```
+
+In plugin call you can pass player parameters object, for a list of supported parameters see: https://developers.google.com/youtube/player_parameters#Parameters
