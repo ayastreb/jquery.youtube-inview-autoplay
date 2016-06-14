@@ -1,0 +1,10 @@
+{
+  "name": "jquery.youtube-inview-autoplay",
+  "version": "1.0.0",
+  "main": "jquery.youtube-inview-autoplay.js",
+  "description": "A jQuery plugin that starts playing YouTube video when it's scrolled into the view and stops it when it's scrolled out",
+  "dependencies": {
+    "jquery": "latest",
+    "protonet/jquery.inview": "1.1.2"
+  }
+}
